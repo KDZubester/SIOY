@@ -40,12 +40,5 @@ void drawBattery(int x, int y) {
   else {
     u8g.drawBitmap(x, y, 2, 8, getIcon(0));
   }
-
-  char str10[10];
-  sprintf(str10, "%d%%", percentage);
-
-  u8g.setFont(u8g_font_profont10);
-  u8g.setPrintPos(x+23, y+7);
-  u8g.print(str10);
   
 }
