@@ -14,7 +14,7 @@ Click on one of these three links to start the download. The link you need to cl
 ![image](https://user-images.githubusercontent.com/63425135/226770371-410e9a71-cb2c-4d7d-b8db-c7cd933b3cf7.png)
 
 ### Step 3
-Click the file once the downlod is complete to launch the installer. **For Mac users** The executable files may run on their own. But if not, double click on the Ardiuno .exe file that appeared in your Downloads folder 
+Click the file once the downlod is complete to launch the installer. **For Mac users:** The executable files may run on their own. But if not, double click on the Ardiuno .exe file that appeared in your Downloads folder 
 ![image](https://user-images.githubusercontent.com/63425135/226972112-4df4d514-8eda-491d-acc9-79fe1b5cd220.png)
 
 ### Step 4
@@ -47,15 +47,18 @@ Click "Download Zip" from the dropdown menu that appeared
 This will download a .zip file that contains all of the folders you will need for this project
 
 ### Step 10
-Click the carrot symbol on the icon that appeared on the bottom left of your window **(This step does not apply for Mac users)**.
+Click the carrot symbol on the icon that appeared on the bottom left of your window.
 ![image](https://user-images.githubusercontent.com/63425135/226771989-ae3a51ec-529b-442b-af1e-81303c110482.png)
+
+**For Mac users:** Double click on the folder that appears on the top right.
+![image](https://user-images.githubusercontent.com/63425135/226993274-b365f101-abe2-4323-89c4-cd2a44b87a50.png)
 
 ### Step 11
 Choose the "Show in Folder" option  **(This step does not apply for Mac users)**.
 ![image](https://user-images.githubusercontent.com/63425135/226772040-52b03f58-548c-4bb5-a41e-e768be659d3e.png)
 
 ### Step 12
-Click on that option will take you to the location of where that .zip folder was downloaded to. You can change the location of where you want this folder to be so it is easier to find later. **For Mac users:** Your computer will unzip the folder for you. You will most likely find your folder in your Downloads. You can change the location if you want.
+Click on that option will take you to the location of where that .zip folder was downloaded to. You can change the location of where you want this folder to be so it is easier to find later **(This step does not apply for Mac users)**.
 ![image](https://user-images.githubusercontent.com/63425135/226773381-eeb3bc1d-a67d-49cc-bb3c-6f86ddce9e83.png)
 
 ### Step 13
@@ -71,6 +74,8 @@ This will allow you to fully access the data inside of the .zip folder
 ### Step 15
 Select the location for the computer to send the unzipped folder to.
 If you have not already picked an easy place to find the folder for later use, please do so now. **We will need to access and change some of the files you just downloaded. So, it is very important that you know where they are!**
+
+**For Mac Users:** The files are most likely in your downloads folder, you can change this location if you want.
 ![image](https://user-images.githubusercontent.com/63425135/226772661-52f3ed46-68d7-48ed-84d7-37bce01d5e7b.png)
 
 Once the computer is done extracting the data from the folder, it will take you inside the newly unzipped folder.
