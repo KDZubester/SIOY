@@ -10,7 +10,7 @@ The only thing you need for these instructions is your computer.
 Go to this webpage: https://www.arduino.cc/en/software
 
 ### Step 2
-Click on one of these three links to start the download. The link you need to click on will change depending on what type of computer you are using.
+Click on one of these three links to start the download. The link you need to click on will change depending on what type of computer you are using. **For Mac users** The executable files may run on their own. But if not, double click on the Ardiuno .exe file that appeared in your Downloads folder
 ![image](https://user-images.githubusercontent.com/63425135/226770371-410e9a71-cb2c-4d7d-b8db-c7cd933b3cf7.png)
 
 ### Step 3
