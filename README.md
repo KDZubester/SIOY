@@ -12,7 +12,7 @@ Depending on what type of computer you are using, click on one of these three li
 ![image](https://user-images.githubusercontent.com/63425135/226770371-410e9a71-cb2c-4d7d-b8db-c7cd933b3cf7.png)
 
 ### Step 3
-Click the file once the downlod is complete to launch the installer
+Click the file once the downlod is complete to launch the installer. Some of the steps for installation may differ slightly depending on what computer you are using. 
 ![image](https://user-images.githubusercontent.com/63425135/226972112-4df4d514-8eda-491d-acc9-79fe1b5cd220.png)
 
 Agree to Terms and Conditions 
