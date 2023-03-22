@@ -5,6 +5,6 @@ Hello future engineers! These instructions will guide you on your first steps to
 Go to this webpage: https://www.arduino.cc/en/software
 ### Step 2
 Depending on what type of computer you are using, click on one of these three links.
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/63425135/226770371-410e9a71-cb2c-4d7d-b8db-c7cd933b3cf7.png)
 ## Downloading the GitHub files
 ## Compiling Arduino Code for the first time
