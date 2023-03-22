@@ -94,3 +94,23 @@ This will open the Arduino project in the Arduino Program
 
 ## Compiling Arduino Code for the first time
 KATHRYN YOU CAN PUT YOUR SCREENSHOTS HERE
+
+### Step 19
+Click the Verify button (blue checkmark) to compile program
+![image (5)](https://user-images.githubusercontent.com/97060692/226983691-987cdcde-3dc5-4bd3-ab11-c875d8c46434.png)
+
+NOTE: Most users will be missing the import libraries for the watch code, so compilation will most likely fail.  This is expected at this point.  
+
+Compilation errors will be reported in the Output window
+![image (6)](https://user-images.githubusercontent.com/97060692/226984462-8e9e4500-bdd5-471e-aec4-aa33e5c208ae.png)
+
+### Step 20
+Open two File Explorer windows
+
+
+
+
+
+
+
+
