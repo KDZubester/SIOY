@@ -126,6 +126,18 @@ Search for "libraries" in both windows and select "libraries - Arduino" in one, 
 
 
 
+### images to be labeled
+![image](https://user-images.githubusercontent.com/97060692/226996576-00003dab-dd80-449d-96a8-c08c140147dd.png)
+
+![image](https://user-images.githubusercontent.com/97060692/226996631-ae66f923-edbc-4545-aff2-f39477de7567.png)
+
+![image](https://user-images.githubusercontent.com/97060692/226996691-b9582f36-b0ea-4824-9163-0b74be607565.png)
+
+![image](https://user-images.githubusercontent.com/97060692/226996795-01627129-c33d-4b5e-a5e3-557b7ca6e7b3.png)
+
+![image](https://user-images.githubusercontent.com/97060692/226996853-33c220dd-5a86-4631-82b6-caee11035c03.png)
+
+
 
 
 
