@@ -98,10 +98,9 @@ This will open the Arduino project in the Arduino Program
 Click the Verify button (blue checkmark) to compile program
 ![image (5)](https://user-images.githubusercontent.com/97060692/226983691-987cdcde-3dc5-4bd3-ab11-c875d8c46434.png)
 
-**NOTE:** Most users will be missing the libraries required for the watch code to run correctly. So, the compilation will most likely fail. **This is expected at this point.** We will now grab the libraries we need and put them into the Arduino program.
-
-Compilation errors will be reported in the Output window
+Compilation errors will be reported in the output window
 ![image (6)](https://user-images.githubusercontent.com/97060692/226984462-8e9e4500-bdd5-471e-aec4-aa33e5c208ae.png)
+**NOTE:** Most users will be missing the libraries required for the watch code to run correctly. So, the compilation will most likely fail. **This is expected at this point.** We will now grab the libraries we need and put them into the Arduino program.
 
 ### Step 19
 Open two File Explorer windows side-by-side 
@@ -129,7 +128,7 @@ This is what you should now see in the two windows
 ![image](https://user-images.githubusercontent.com/97060692/226996795-01627129-c33d-4b5e-a5e3-557b7ca6e7b3.png)
 
 ### Step 25
-Go back to the Arduino program and press the compile button again. The Output should show all white text and give information about how many bytes the sketch uses.
+Go back to the Arduino program and press the compile button again. The output should show all white text and give information about how many bytes the sketch uses.
 ![image](https://user-images.githubusercontent.com/97060692/226996853-33c220dd-5a86-4631-82b6-caee11035c03.png)
 
 
