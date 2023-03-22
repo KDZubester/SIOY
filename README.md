@@ -54,39 +54,38 @@ Click the carrot symbol on the icon that appeared on the bottom left of your win
 Choose the "Show in Folder" option.
 ![image](https://user-images.githubusercontent.com/63425135/226772040-52b03f58-548c-4bb5-a41e-e768be659d3e.png)
 
-### Step 12
-Click on that option will take you to the location of where that .zip folder was downloaded to. You can change the location of where you want this folder to be so it is easier to find later.
+Clicking on that option will take you to the location of where that .zip folder was downloaded to. You can change the location of where you want this folder to be so it is easier to find later.
 ![image](https://user-images.githubusercontent.com/63425135/226773381-eeb3bc1d-a67d-49cc-bb3c-6f86ddce9e83.png)
 
-### Step 13
+### Step 12
 Right click on the folder to make an options menu appear.
 ![image](https://user-images.githubusercontent.com/63425135/226772311-7fce53dc-5bc2-450c-b52a-d0e4db331b89.png)
 
-### Step 14
+### Step 13
 Select "Extract All".
 ![image](https://user-images.githubusercontent.com/63425135/226772425-2f1e9532-07bd-4a5d-8438-c006897b0cc7.png)
 
 This will allow you to fully access the data inside of the .zip folder
 
-### Step 15
+### Step 14
 Select the location for the computer to send the unzipped folder to.
 If you have not already picked an easy place to find the folder for later use, please do so now. **We will need to access and change some of the files you just downloaded. So, it is very important that you know where they are!**
 
 Once the computer is done extracting the data from the folder, it will take you inside the newly unzipped folder.
 
-### Step 16
+### Step 15
 Double click on "Self-Starter-Kits-main" to enter the folder
 ![image](https://user-images.githubusercontent.com/63425135/226772847-c318fcc4-3718-4497-85bd-0704b9bd929e.png)
 
 There is a lot of stuff inside the folder. You can explore and use it however you want.
 
-### Step 17
+### Step 16
 Double click on the folder titled, "Watch_02.1"
 ![image](https://user-images.githubusercontent.com/63425135/226773092-0b2b55e0-8ddb-4c9f-9dcc-61c9e03cfbec.png)
 
 This folder has all of the code that the DIY Digital Watch will need to run.
 
-### Step 18
+### Step 17
 Double click on the file named "Watch_02.1.ino"
 ![image](https://user-images.githubusercontent.com/63425135/226773203-bd785b97-69db-4794-aa57-bc6bd58d8a77.png)
 
@@ -95,7 +94,7 @@ This will open the Arduino project in the Arduino Program
 
 ## Compiling Arduino Code for the first time
 
-### Step 19
+### Step 18
 Click the Verify button (blue checkmark) to compile program
 ![image (5)](https://user-images.githubusercontent.com/97060692/226983691-987cdcde-3dc5-4bd3-ab11-c875d8c46434.png)
 
@@ -104,35 +103,28 @@ NOTE: Most users will be missing the import libraries for the watch code, so com
 Compilation errors will be reported in the Output window
 ![image (6)](https://user-images.githubusercontent.com/97060692/226984462-8e9e4500-bdd5-471e-aec4-aa33e5c208ae.png)
 
-### Step 20
+### Step 19
 Open two File Explorer windows side-by-side 
 
-
-### Step 21
+### Step 20
 Click on "This PC" in each window
 ![image](https://user-images.githubusercontent.com/97060692/226994200-30a1c028-59f0-45dd-bf77-edd137de9f38.png)
 
-
-### Step 22 
+### Step 21 
 Search for "libraries" in both windows and select "libraries - Arduino" in one, and "libraries - Self-Starter-Kits-main" in the other
 ![image](https://user-images.githubusercontent.com/97060692/226994293-a6f99868-0cdf-4973-93e3-5c167539a3d9.png)
 
-
-
-
-### images to be labeled
+### Step 22
 ![image](https://user-images.githubusercontent.com/97060692/226996576-00003dab-dd80-449d-96a8-c08c140147dd.png)
 
+### Step 23
 ![image](https://user-images.githubusercontent.com/97060692/226996631-ae66f923-edbc-4545-aff2-f39477de7567.png)
 
+### Step 24
 ![image](https://user-images.githubusercontent.com/97060692/226996691-b9582f36-b0ea-4824-9163-0b74be607565.png)
 
+### Step 25
 ![image](https://user-images.githubusercontent.com/97060692/226996795-01627129-c33d-4b5e-a5e3-557b7ca6e7b3.png)
 
+### Step 26
 ![image](https://user-images.githubusercontent.com/97060692/226996853-33c220dd-5a86-4631-82b6-caee11035c03.png)
-
-
-
-
-
-
