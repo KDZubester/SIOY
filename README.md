@@ -23,7 +23,7 @@ Click the carrot symbol on the icon that appeared on the bottom left of your win
 Choose the "Show in Folder" option
 ![image](https://user-images.githubusercontent.com/63425135/226772040-52b03f58-548c-4bb5-a41e-e768be659d3e.png)
 Click on that option will take you to the location of where that .zip folder was downloaded to. You can change the location of where you want this folder to be so it is easier to find later.
-![image](https://user-images.githubusercontent.com/63425135/226772227-7e44d7d0-355b-45ca-b9ff-c9ed523ae7da.png)
+![image](https://user-images.githubusercontent.com/63425135/226773381-eeb3bc1d-a67d-49cc-bb3c-6f86ddce9e83.png)
 ### Step [insert number]
 Right click on the folder to make an options menu appear
 ![image](https://user-images.githubusercontent.com/63425135/226772311-7fce53dc-5bc2-450c-b52a-d0e4db331b89.png)
