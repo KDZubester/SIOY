@@ -98,7 +98,7 @@ This will open the Arduino project in the Arduino Program
 Click the Verify button (blue checkmark) to compile program
 ![image (5)](https://user-images.githubusercontent.com/97060692/226983691-987cdcde-3dc5-4bd3-ab11-c875d8c46434.png)
 
-NOTE: Most users will be missing the import libraries for the watch code, so compilation will most likely fail.  This is expected at this point.  
+**NOTE:** Most users will be missing the libraries required for the watch code to run correctly. So, the compilation will most likely fail. **This is expected at this point.** We will now grab the libraries we need and put them into the Arduino program.
 
 Compilation errors will be reported in the Output window
 ![image (6)](https://user-images.githubusercontent.com/97060692/226984462-8e9e4500-bdd5-471e-aec4-aa33e5c208ae.png)
@@ -114,17 +114,27 @@ Click on "This PC" in each window
 Search for "libraries" in both windows and select "libraries - Arduino" in one, and "libraries - Self-Starter-Kits-main" in the other
 ![image](https://user-images.githubusercontent.com/97060692/226994293-a6f99868-0cdf-4973-93e3-5c167539a3d9.png)
 
-### Step 22
+This is what you should see in the two windows
 ![image](https://user-images.githubusercontent.com/97060692/226996576-00003dab-dd80-449d-96a8-c08c140147dd.png)
 
-### Step 23
+### Step 22
+Copy everything in the "libraries - Self-Starter-Kits-main" folder except the readme.txt file
 ![image](https://user-images.githubusercontent.com/97060692/226996631-ae66f923-edbc-4545-aff2-f39477de7567.png)
 
-### Step 24
+### Step 23
+Paste those folders into the "libraries - Arduino" folder
 ![image](https://user-images.githubusercontent.com/97060692/226996691-b9582f36-b0ea-4824-9163-0b74be607565.png)
 
-### Step 25
+This is what you should now see in the two windows
 ![image](https://user-images.githubusercontent.com/97060692/226996795-01627129-c33d-4b5e-a5e3-557b7ca6e7b3.png)
 
-### Step 26
+### Step 25
+Go back to the Arduino program and press the compile button again. The Output should show all white text and give information about how many bytes the sketch uses.
 ![image](https://user-images.githubusercontent.com/97060692/226996853-33c220dd-5a86-4631-82b6-caee11035c03.png)
+
+
+## What if the Arduino program still shows errors???
+
+Do not worry if the Arduino program still won't compile. All you need to do is follow these steps to manually download the necessary libraries.
+
+KATHRYN, PUT THE PICTURES AND INSTRUCTIONS HERE
