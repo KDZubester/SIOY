@@ -111,7 +111,17 @@ Compilation errors will be reported in the Output window
 ![image (6)](https://user-images.githubusercontent.com/97060692/226984462-8e9e4500-bdd5-471e-aec4-aa33e5c208ae.png)
 
 ### Step 20
-Open two File Explorer windows
+Open two File Explorer windows side-by-side 
+
+
+### Step 21
+Click on "This PC" in each window
+![image](https://user-images.githubusercontent.com/97060692/226994200-30a1c028-59f0-45dd-bf77-edd137de9f38.png)
+
+
+### Step 22 
+Search for "libraries" in both windows and select "libraries - Arduino" in one, and "libraries - Self-Starter-Kits-main" in the other
+![image](https://user-images.githubusercontent.com/97060692/226994293-a6f99868-0cdf-4973-93e3-5c167539a3d9.png)
 
 
 
