@@ -2,7 +2,7 @@
 Hello future engineers! We are excited to share this fun engineering project with you! These instructions will guide you on your first steps to changing the world with your skills and ideas by completing the DIY Digital Watch project. They will outline how to set up the coding environment you will use to control an Arduino and how to get your first program to run. There are three main sections to these instructions: (1) downloading the Arduino program; (2) downloading the GitHub files; (3) and compiling the Arduino code needed to begin the DIY Digital Watch project. This process should take no more than 10 minutes. So let's get started!
 
 ## Materials required:
-The only thing you need for these instructions is your computer.
+The only thing you need for these instructions is a **WINDOWS** computer. If you are using a Linux or Mac, the user interface will look different.
 
 ## Downloading the Arduino Program
 
@@ -14,7 +14,7 @@ Click on one of these three links to start the download. The link you need to cl
 ![image](https://user-images.githubusercontent.com/63425135/226770371-410e9a71-cb2c-4d7d-b8db-c7cd933b3cf7.png)
 
 ### Step 3
-Click the file once the downlod is complete to launch the installer. **For Mac users:** The executable files may run on their own. But if not, double click on the Ardiuno .exe file that appeared in your Downloads folder 
+Click the file once the downlod is complete to launch the installer.
 ![image](https://user-images.githubusercontent.com/63425135/226972112-4df4d514-8eda-491d-acc9-79fe1b5cd220.png)
 
 ### Step 4
@@ -50,23 +50,20 @@ This will download a .zip file that contains all of the folders you will need fo
 Click the carrot symbol on the icon that appeared on the bottom left of your window.
 ![image](https://user-images.githubusercontent.com/63425135/226771989-ae3a51ec-529b-442b-af1e-81303c110482.png)
 
-**For Mac users:** Double click on the folder that appears on the top right.
-![image](https://user-images.githubusercontent.com/63425135/226993274-b365f101-abe2-4323-89c4-cd2a44b87a50.png)
-
 ### Step 11
-Choose the "Show in Folder" option  **(This step does not apply for Mac users)**.
+Choose the "Show in Folder" option.
 ![image](https://user-images.githubusercontent.com/63425135/226772040-52b03f58-548c-4bb5-a41e-e768be659d3e.png)
 
 ### Step 12
-Click on that option will take you to the location of where that .zip folder was downloaded to. You can change the location of where you want this folder to be so it is easier to find later **(This step does not apply for Mac users)**.
+Click on that option will take you to the location of where that .zip folder was downloaded to. You can change the location of where you want this folder to be so it is easier to find later.
 ![image](https://user-images.githubusercontent.com/63425135/226773381-eeb3bc1d-a67d-49cc-bb3c-6f86ddce9e83.png)
 
 ### Step 13
-Right click on the folder to make an options menu appear **(This step does not apply for Mac users)**.
+Right click on the folder to make an options menu appear.
 ![image](https://user-images.githubusercontent.com/63425135/226772311-7fce53dc-5bc2-450c-b52a-d0e4db331b89.png)
 
 ### Step 14
-Select "Extract All" **(This step does not apply for Mac users)**.
+Select "Extract All".
 ![image](https://user-images.githubusercontent.com/63425135/226772425-2f1e9532-07bd-4a5d-8438-c006897b0cc7.png)
 
 This will allow you to fully access the data inside of the .zip folder
@@ -74,9 +71,6 @@ This will allow you to fully access the data inside of the .zip folder
 ### Step 15
 Select the location for the computer to send the unzipped folder to.
 If you have not already picked an easy place to find the folder for later use, please do so now. **We will need to access and change some of the files you just downloaded. So, it is very important that you know where they are!**
-
-**For Mac Users:** The files are most likely in your downloads folder, you can change this location if you want.
-![image](https://user-images.githubusercontent.com/63425135/226772661-52f3ed46-68d7-48ed-84d7-37bce01d5e7b.png)
 
 Once the computer is done extracting the data from the folder, it will take you inside the newly unzipped folder.
 
