@@ -55,7 +55,7 @@ Choose the "Show in Folder" option  **(This step does not apply for Mac users)**
 ![image](https://user-images.githubusercontent.com/63425135/226772040-52b03f58-548c-4bb5-a41e-e768be659d3e.png)
 
 ### Step 12
-Click on that option will take you to the location of where that .zip folder was downloaded to. You can change the location of where you want this folder to be so it is easier to find later. **For Mac users:** You will most likely be able to find your folder in your Downloads. You can change the location if you want.
+Click on that option will take you to the location of where that .zip folder was downloaded to. You can change the location of where you want this folder to be so it is easier to find later. **For Mac users:** Your computer will unzip the folder for you. You will most likely find your folder in your Downloads. You can change the location if you want.
 ![image](https://user-images.githubusercontent.com/63425135/226773381-eeb3bc1d-a67d-49cc-bb3c-6f86ddce9e83.png)
 
 ### Step 13
@@ -95,7 +95,6 @@ This will open the Arduino project in the Arduino Program
 
 
 ## Compiling Arduino Code for the first time
-KATHRYN YOU CAN PUT YOUR SCREENSHOTS HERE
 
 ### Step 19
 Click the Verify button (blue checkmark) to compile program
