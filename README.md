@@ -44,11 +44,9 @@ Open the GitHub repository and click on green button that says "Code"
 ![image](https://user-images.githubusercontent.com/63425135/226771511-e568b523-3d27-42c8-b512-804fc9b7fee8.png)
 
 ### Step 9
-Click "Download Zip" from the dropdown menu that appeared
+Click "Download Zip" from the dropdown menu that appeared. This will download a .zip file that contains all of the folders you will need for this project
 
 ![image](https://user-images.githubusercontent.com/63425135/226771765-abfcf85e-16ef-4540-87b2-27067f0453cb.png)
-
-This will download a .zip file that contains all of the folders you will need for this project
 
 ### Step 10
 Click the carrot symbol on the icon that appeared on the bottom left of your window.
@@ -70,11 +68,9 @@ Right click on the folder to make an options menu appear.
 ![image](https://user-images.githubusercontent.com/63425135/226772311-7fce53dc-5bc2-450c-b52a-d0e4db331b89.png)
 
 ### Step 13
-Select "Extract All".
+Select "Extract All". This will allow you to fully access the data inside of the .zip folder
 
 ![image](https://user-images.githubusercontent.com/63425135/226772425-2f1e9532-07bd-4a5d-8438-c006897b0cc7.png)
-
-This will allow you to fully access the data inside of the .zip folder
 
 ### Step 14
 Select the location for the computer to send the unzipped folder to.
@@ -83,25 +79,19 @@ If you have not already picked an easy place to find the folder for later use, p
 Once the computer is done extracting the data from the folder, it will take you inside the newly unzipped folder.
 
 ### Step 15
-Double click on "Self-Starter-Kits-main" to enter the folder
+Double click on "Self-Starter-Kits-main" to enter the folder. There is a lot of stuff inside the folder. You can explore and use it however you want.
 
 ![image](https://user-images.githubusercontent.com/63425135/226772847-c318fcc4-3718-4497-85bd-0704b9bd929e.png)
 
-There is a lot of stuff inside the folder. You can explore and use it however you want.
-
 ### Step 16
-Double click on the folder titled, "Watch_02.1"
+Double click on the folder titled, "Watch_02.1" This folder has all of the code that the DIY Digital Watch will need to run.
 
 ![image](https://user-images.githubusercontent.com/63425135/226773092-0b2b55e0-8ddb-4c9f-9dcc-61c9e03cfbec.png)
 
-This folder has all of the code that the DIY Digital Watch will need to run.
-
 ### Step 17
-Double click on the file named "Watch_02.1.ino"
+Double click on the file named "Watch_02.1.ino" This will open the Arduino project in the Arduino Program
 
 ![image](https://user-images.githubusercontent.com/63425135/226773203-bd785b97-69db-4794-aa57-bc6bd58d8a77.png)
-
-This will open the Arduino project in the Arduino Program
 
 
 ## Compiling Arduino Code for the first time
