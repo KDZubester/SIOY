@@ -37,7 +37,7 @@ Complete installation and open the Arduino IDE
 ## Downloading the GitHub files
 
 ### Step 8
-From the GitHub, click on green button that says "Code"
+Open the GitHub repository and click on green button that says "Code"
 ![image](https://user-images.githubusercontent.com/63425135/226771511-e568b523-3d27-42c8-b512-804fc9b7fee8.png)
 
 ### Step 9
@@ -95,6 +95,14 @@ This will open the Arduino project in the Arduino Program
 ## Compiling Arduino Code for the first time
 
 ### Step 18
+Click Tools and then hover over the "Board" setting, then "Arduino AVR boards", then select "Arduino Nano" to select the type of board we will be using
+![image](https://user-images.githubusercontent.com/97060692/227098797-51ac0d71-367a-4861-935f-7cb1b7a8c575.png)
+
+### Step 19
+Click "Tools" and then hover over the "Processor" setting, then select "ATMega328P (Old Bootloader)" to choose the processor
+![image](https://user-images.githubusercontent.com/97060692/227099233-aafdd835-bce3-4063-a8e5-4a4d94eb7ceb.png)
+
+### Step 20
 Click the Verify button (blue checkmark) to compile program
 ![image (5)](https://user-images.githubusercontent.com/97060692/226983691-987cdcde-3dc5-4bd3-ab11-c875d8c46434.png)
 
@@ -102,32 +110,32 @@ Compilation errors will be reported in the output window
 ![image (6)](https://user-images.githubusercontent.com/97060692/226984462-8e9e4500-bdd5-471e-aec4-aa33e5c208ae.png)
 **NOTE:** Most users will be missing the libraries required for the watch code to run correctly. So, the compilation will most likely fail. **This is expected at this point.** We will now grab the libraries we need and put them into the Arduino program.
 
-### Step 19
+### Step 21
 Open two File Explorer windows side-by-side 
 
-### Step 20
+### Step 22
 Click on "This PC" in each window
 ![image](https://user-images.githubusercontent.com/97060692/226994200-30a1c028-59f0-45dd-bf77-edd137de9f38.png)
 
-### Step 21 
+### Step 23 
 Search for "libraries" in both windows and select "libraries - Arduino" in one, and "libraries - Self-Starter-Kits-main" in the other
 ![image](https://user-images.githubusercontent.com/97060692/226994293-a6f99868-0cdf-4973-93e3-5c167539a3d9.png)
 
 This is what you should see in the two windows
 ![image](https://user-images.githubusercontent.com/97060692/226996576-00003dab-dd80-449d-96a8-c08c140147dd.png)
 
-### Step 22
+### Step 24
 Copy everything in the "libraries - Self-Starter-Kits-main" folder except the readme.txt file
 ![image](https://user-images.githubusercontent.com/97060692/226996631-ae66f923-edbc-4545-aff2-f39477de7567.png)
 
-### Step 23
+### Step 25
 Paste those folders into the "libraries - Arduino" folder
 ![image](https://user-images.githubusercontent.com/97060692/226996691-b9582f36-b0ea-4824-9163-0b74be607565.png)
 
 This is what you should now see in the two windows
 ![image](https://user-images.githubusercontent.com/97060692/226996795-01627129-c33d-4b5e-a5e3-557b7ca6e7b3.png)
 
-### Step 25
+### Step 26
 Go back to the Arduino program and press the compile button again. The output should show all white text and give information about how many bytes the sketch uses.
 ![image](https://user-images.githubusercontent.com/97060692/226996853-33c220dd-5a86-4631-82b6-caee11035c03.png)
 
@@ -146,7 +154,7 @@ Search for the missing library
 ![image](https://user-images.githubusercontent.com/97060692/227089954-b4d9b1b2-d35b-4680-ab92-371a4f4a695d.png)
 
 Choose the library you are looking for and click "Install"
-NOTE: If the install button is not visible, expand the Library Manager window
-NOTE: If it is not clear which library to install, googling the .h file that throws an error will be helful
+**NOTE:** If the install button is not visible, expand the Library Manager window
+**NOTE:** If it is not clear which library to install, googling the .h file that throws an error will be helpful
 ![image](https://user-images.githubusercontent.com/97060692/227090402-fb368dc7-b31a-4cb8-8626-7158554aac20.png)
 
