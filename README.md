@@ -2,7 +2,7 @@
 Hello future engineers! We are excited to share this fun engineering project with you! These instructions will guide you on your first steps to changing the world with your skills and ideas. In preparation to create your own DIY Digital Watch, you will learn how to set up the coding environment you will use to control an Arduino and how to get your first program to run. There are three main sections to these instructions: (1) downloading the Arduino program; (2) downloading the GitHub files; (3) compiling the Arduino code needed to begin the DIY Digital Watch project. This process should take no more than 20 minutes. So let's get started!
 
 ## Materials required:
-The only thing you need for these instructions is a **WINDOWS** computer. If you are using a Linux or Mac, the user interface will look different.
+These instructions are meant for **WINDOWS** computers. If you are using a Linux or Mac, the user interface will look different.
 
 ## Downloading the Arduino Program
 
