@@ -26,7 +26,7 @@ Choose to install for a single user
 ![image (2)](https://user-images.githubusercontent.com/97060692/226774866-7d62e2af-11a7-437d-9fb7-413606e08a0c.png)
 
 ### Step 6
-Accept default file location
+Accept default file location. But you can pick a location that better suits you if you want.
 ![image (3)](https://user-images.githubusercontent.com/97060692/226774965-4bf02f7d-7762-420f-83b5-cb4786660af1.png)
 
 ### Step 7
