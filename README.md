@@ -14,7 +14,7 @@ Click on one of these three links to start the download. The link you need to cl
 ![image](https://user-images.githubusercontent.com/63425135/226770371-410e9a71-cb2c-4d7d-b8db-c7cd933b3cf7.png)
 
 ### Step 3
-Click the file once the downlod is complete to launch the installer.
+Click the file once the download is complete to launch the installer.
 ![image](https://user-images.githubusercontent.com/63425135/226972112-4df4d514-8eda-491d-acc9-79fe1b5cd220.png)
 
 ### Step 4
