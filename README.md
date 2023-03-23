@@ -10,7 +10,7 @@ These instructions are meant for **WINDOWS 11** computers. If you are using a Li
 Go to this webpage: https://www.arduino.cc/en/software
 
 ### Step 2
-Click on one of these three links to start the download. The link you need to click on will change depending on what type of computer you are using. 
+Click on one of these three links to start the download. The link you need to click on will change depending on what type of computer you are using. **Note:** It will ask you if you want to donate money before downloading the Arduino program, you don't need to do this. You can just download the program if you want.
 
 ![image](https://user-images.githubusercontent.com/63425135/226770371-410e9a71-cb2c-4d7d-b8db-c7cd933b3cf7.png)
 
