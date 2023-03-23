@@ -136,4 +136,17 @@ Go back to the Arduino program and press the compile button again. The output sh
 
 Do not worry if the Arduino program still won't compile. All you need to do is follow these steps to manually download the necessary libraries.
 
-KATHRYN, PUT THE PICTURES AND INSTRUCTIONS HERE
+Missing libraries will cause errors in the Output window.  
+![image](https://user-images.githubusercontent.com/97060692/227089647-455b3175-59ef-4b4d-83b3-136f7a8384a0.png)
+
+Open the Library Manager by clicking the book icon on the left side of the screen
+![image](https://user-images.githubusercontent.com/97060692/227089750-01aca051-a28d-4d34-a479-958ea7e5cf2c.png)
+
+Search for the missing library
+![image](https://user-images.githubusercontent.com/97060692/227089954-b4d9b1b2-d35b-4680-ab92-371a4f4a695d.png)
+
+Choose the library you are looking for and click "Install"
+NOTE: If the install button is not visible, expand the Library Manager window
+NOTE: If it is not clear which library to install, googling the .h file that throws an error will be helful
+![image](https://user-images.githubusercontent.com/97060692/227090402-fb368dc7-b31a-4cb8-8626-7158554aac20.png)
+
